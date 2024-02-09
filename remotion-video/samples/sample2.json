@@ -1,0 +1,68 @@
+{
+
+    "videoname": "Sample Video",
+    "description": "This is a sample video.",
+    "videotype": "SINGLEITEM",
+    "durationSec": 20,
+    "intro": {
+        "image": "https://images.hdqwalls.com/download/morning-in-mountains-10k-ly-1080x1920.jpg",
+        "duration": 5,
+        "title": "Sample Intro Title",
+        "tts": {
+            "tts": true,
+            "ttstext": "Welcome to the sample video",
+            "voice": "VoiceName"
+        },
+        "titlefont": {
+            "fontname": "Arial",
+            "fontsize": 20,
+            "fontcolor": "#FFFFFF",
+            "bgcolor": "#000000"
+        }
+    },
+    "outro": {
+        "image": "outro.png",
+        "duration": 5,
+        "title": "Outro Title",
+        "tts": {
+            "tts": true,
+            "ttstext": "Thank you for watching the sample video",
+            "voice": "VoiceName"
+        },
+        "titlefont": {
+            "fontname": "Arial",
+            "fontsize": 20,
+            "fontcolor": "#FFFFFF",
+            "bgcolor": "#000000"
+        }
+    },
+    "body": {
+        "item": {
+            "id": 1,
+            "itemname": "Item Name",
+            "image": "https://wallpapersmug.com/download/1080x1920/e748b7/garden-flowers-mulit-colors.jpg",
+            "itemsubtitlefont": {
+                "fontname": "Arial",
+                "fontsize": 20,
+                "fontcolor": "#FFFFFF",
+                "bgcolor": "#000000"
+            },
+            "itemnamefont": {
+                "fontname": "Arial",
+                "fontsize": 20,
+                "fontcolor": "#FFFFFF",
+                "bgcolor": "#000000"
+            },
+            "itemdetailsfont": {
+                "fontname": "Arial",
+                "fontsize": 20,
+                "fontcolor": "#FFFFFF",
+                "bgcolor": "#000000"
+            }
+        },
+        "items": [],
+        "itemduration": 10,
+        "countBackwards": false
+    }
+  }
+
